@@ -8,3 +8,10 @@ Host on godaddy.
 
 **Vector**
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
